@@ -1,1 +1,1 @@
-# markdownlint-docker
+# yamllint-docker
