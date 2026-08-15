@@ -1,6 +1,9 @@
 # yamllint-docker
 
-Example of use:
+* [yamllint on PYPI](https://pypi.org/project/yamllint/)
+* [yamllint on GitHub](https://github.com/adrienverge/yamllint)
+
+## Example of use
 
 ```bash
 docker run --rm \
