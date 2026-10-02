@@ -1,4 +1,4 @@
-FROM python:3.14.7-alpine3.24
+FROM python:3.15.0rc2-alpine3.24
 
 WORKDIR /workspace
 
